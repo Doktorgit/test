@@ -1,9 +1,5 @@
 123
 456
 
-
+gg r
 789
-add line >> file1.txt
-
-cat file1.txt
-echo add line
